@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "sideEffects": false,
+  "version": "1.0.0",
+  "devDependencies": {
+    "@storybook/react": "^5.3.8"
+  },
+  "dependencies": {
+    "babel-loader": "^8.1.0",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  }
+}
